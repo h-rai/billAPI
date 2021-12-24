@@ -4,17 +4,31 @@ Our solution hopes to deliver tools that will epower consumers to tackle
 the financial future of tommorow.
 
 
-### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
+### Vision
+
+I believe digital transformation is the epicenter of the next century. 
+
+Our solution hopes to deliver the tools required to empower consumers to tackle the financial future
+of tomorrow. 
+
+<p align="right"><i><a href="#top">TOP</a></i></p>
+
+### v0.0
+
+[![Product Name Screen Shot][product-screenshot]](https://billAPI.software)
+
+<p align="right"><i><a href="#top">TOP</a></i></p>
+
+
+
+
+### Technology Stack
+
+Shown below are the following technology stack required to build billAPI.
+
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><i><a href="#top">TOP</a></i></p>
