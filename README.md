@@ -18,7 +18,7 @@ of tomorrow.
 
 ### v0.0
 
-[![Product Name Screen Shot][product-screenshot]](http://billapi.software/)
+<img src="/img/v0.0.jpeg" alt="Moutain">
 
 <p align="right"><i><a href="#top">TOP</a></i></p>
 
