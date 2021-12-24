@@ -15,14 +15,12 @@ of tomorrow.
 
 <p align="right"><i><a href="#top">TOP</a></i></p>
 
+
 ### v0.0
 
-[![Product Name Screen Shot][product-screenshot]](https://billAPI.software)
+[![Product Name Screen Shot][product-screenshot]](http://billapi.software/)
 
 <p align="right"><i><a href="#top">TOP</a></i></p>
-
-
-
 
 ### Technology Stack
 
