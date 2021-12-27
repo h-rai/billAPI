@@ -10,11 +10,21 @@
 .card {
     background-color: #fff;
     border-radius: 10px;
-    color: #333;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, .2);
+    color: #2d2d2d;
+    box-shadow: 0 3px 10px #4B6D70;
     padding: 20px;
     margin: 10px;
 }
+
+.bg-orange {
+    --tw-bg-opacity: 1;
+    background-color: rgba(255, 113, 67, var(--tw-bg-opacity));
+  }
+  
+.group:hover .group-hover\:bg-orange {
+    --tw-bg-opacity: 1;
+    background-color: rgba(255, 113, 67, var(--tw-bg-opacity));
+  }
 
 .btn {
     display: inline-block;
@@ -60,7 +70,7 @@
 .bg-light,
 .btn-light {
     background-color: var(--light-color);
-    color: #333;
+    color: #2d2d2d;
 }
 
 .btn:hover {
